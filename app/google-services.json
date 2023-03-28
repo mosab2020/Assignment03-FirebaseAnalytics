@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "710235032463",
+    "project_id": "assignment03-firebaseanalytics",
+    "storage_bucket": "assignment03-firebaseanalytics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710235032463:android:c8f0d61f5f9a98595a59fa",
+        "android_client_info": {
+          "package_name": "com.example.assignment03firebaseanalytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710235032463-mma07l8raubrjkejm1k7ecglp0nt9qvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz4FCS8Nemyy3FyifIhGdWspXj59dGmeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710235032463-mma07l8raubrjkejm1k7ecglp0nt9qvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
